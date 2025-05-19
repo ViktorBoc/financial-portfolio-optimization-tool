@@ -1,0 +1,34 @@
+﻿name,type,return,risk,beta
+SPY - S&P 500 ETF,etf,0.10,0.15,1.00
+QQQ - Nasdaq 100 ETF,etf,0.13,0.20,1.10
+VTI - Total Stock Market ETF,etf,0.09,0.14,1.05
+VOO - S&P 500 ETF,etf,0.10,0.15,1.00
+IVV - S&P 500 ETF,etf,0.10,0.15,1.00
+VEA - FTSE Developed Markets ETF,etf,0.08,0.16,0.95
+VWO - FTSE Emerging Markets ETF,etf,0.11,0.22,1.15
+AAPL - Apple Inc,stock,0.15,0.25,1.20
+MSFT - Microsoft Corp,stock,0.14,0.22,1.15
+AMZN - Amazon.com Inc,stock,0.18,0.35,1.30
+GOOGL - Alphabet Inc,stock,0.13,0.24,1.10
+META - Meta Platforms Inc,stock,0.16,0.32,1.25
+TSLA - Tesla Inc,stock,0.25,0.45,1.50
+NVDA - NVIDIA Corp,stock,0.30,0.40,1.60
+JPM - JPMorgan Chase & Co,stock,0.09,0.20,1.05
+JNJ - Johnson & Johnson,stock,0.07,0.15,0.85
+V - Visa Inc,stock,0.12,0.18,1.10
+PG - Procter & Gamble Co,stock,0.06,0.14,0.75
+MA - Mastercard Inc,stock,0.13,0.19,1.15
+BND - Total Bond Market ETF,bond,0.04,0.05,0.20
+AGG - Core US Aggregate Bond ETF,bond,0.035,0.045,0.15
+TLT - 20+ Year Treasury Bond ETF,bond,0.03,0.10,0.10
+IEF - 7-10 Year Treasury Bond ETF,bond,0.025,0.07,0.05
+LQD - Investment Grade Corporate Bond ETF,bond,0.045,0.08,0.30
+HYG - High Yield Corporate Bond ETF,bond,0.055,0.12,0.40
+BIL - 1-3 Month Treasury Bill ETF,bond,0.02,0.01,0.00
+SHY - 1-3 Year Treasury Bond ETF,bond,0.022,0.02,0.01
+GLD - Gold Trust,commodity,0.06,0.25,-0.10
+SLV - Silver Trust,commodity,0.07,0.30,0.50
+USO - US Oil Fund,commodity,0.09,0.35,0.60
+UNG - Natural Gas Fund,commodity,0.12,0.45,0.70
+DBC - Commodity Index Fund,commodity,0.08,0.22,0.40
+IAU - Gold Trust,commodity,0.06,0.24,-0.10
